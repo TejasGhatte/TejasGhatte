@@ -1,12 +1,12 @@
-### Hii! I am Tejas Ghatte
+### 👋Hii! I am Tejas Ghatte
 I am currently in class 10
 
-### Currently Learning
+### 📙Currently Learning
 - Python
 - Web development
 - JavaScript
 
-### Aims
+### 🎯Aims
 - To start freelancing by mid 2021
 - And Contribute in open source
 
